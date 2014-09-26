@@ -1,0 +1,24 @@
+{
+  "name": "hubot-magnum-ci",
+  "version": "0.1.0",
+  "author": "Kyle Wiebers <kyle@ballyhoo.it>",
+  "description": "A plugin for Hubot which setups up a webhook listener for Magnum-CI and posts to all rooms listed in HUBOT_DEV_ROOMS",
+  "keywords": [
+    "magnum-ci",
+    "hubot",
+    "chat",
+    "bot"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/wiebersk/hubot-magnum-ci/raw/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/wiebersk/hubot-magnum-ci.git"
+  },
+  "license": "MIT",
+  "main": "./src/magnum-ci"
+}
